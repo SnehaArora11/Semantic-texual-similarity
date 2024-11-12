@@ -50,8 +50,8 @@ pip install torch transformers tensorflow numpy pandas scikit-learn
 
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone "https://github.com/SnehaArora11/Semantic-texual-similarity.git"
+   cd Semantic-texual-similarity
    ```
 
 2. **SentEval**: Open and run `SentEval.ipynb` to test STS with the SentEval framework.
