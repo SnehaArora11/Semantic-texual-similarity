@@ -39,6 +39,7 @@ To run these models, make sure you have the following libraries installed:
 - `numpy`
 - `pandas`
 - `sklearn`
+- `keras`
 
 You can install these packages using:
 ```bash
